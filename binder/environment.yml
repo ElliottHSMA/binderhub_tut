@@ -1,0 +1,7 @@
+name: binder_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - notebook=6.0.3
+  - numpy=1.21.4
+  - pandas=1.3.4
